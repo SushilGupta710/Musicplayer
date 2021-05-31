@@ -1,0 +1,17 @@
+spotify:album:1kvlEm330XRmAZTHY3X3vc
+
+ids:41MnTivkwTO3UUJ8DrqEJJ,6JWc4iAiJ9FjyK0B59ABb4,6UXCm6bOO4gFlDQZV5yL37
+market:ES
+OAuth Token:BQCnTAJ_nrqqBMdqpnYkoEQcNu9repwKrImyE4B3kf-GPwL9_ThrhbC9QvKYVYLTyYMZEX1aGVQqBtpK69S9vTq8a6FOphQtUxyryy8MMjYFL3mcwECPZh395WudO4PgLckYTWdzBgYCkwsrtAUiZC1eSwqcvY9BUVxO2cMk1ghGttipBhiOkxy434andZp3Nl-fm44QVUJwJWsKq8hz5gglXR1dGkH4wIFQnoKfkl0SQIYyqFYXnxgrJOczq9q6_L4gGJ5Y80DS7c6qxZ52RapeuyA9CvVh
+
+music application
+music application with using API from spotify
+
+Client ID a45d67b0b56b456bb83a41918fa72941
+Client Secret 93884f9db19a4350a2fd8e1ef6fb5e36 
+
+
+https://developer.spotify.com/console/get-several-albums/?ids=41MnTivkwTO3UUJ8DrqEJJ,6JWc4iAiJ9FjyK0B59ABb4,6UXCm6bOO4gFlDQZV5yL37
+
+"https://api.spotify.com/v1/albums?ids=382ObEPsp2rxGrnsizN5TX%2C1A2GTWGtFfWp7KSQTwWOyo%2C2noRn2Aes5aoNVsU6iWThc&market=ES" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer BQCnTAJ_nrqqBMdqpnYkoEQcNu9repwKrImyE4B3kf-GPwL9_ThrhbC9QvKYVYLTyYMZEX1aGVQqBtpK69S9vTq8a6FOphQtUxyryy8MMjYFL3mcwECPZh395WudO4PgLckYTWdzBgYCkwsrtAUiZC1eSwqcvY9BUVxO2cMk1ghGttipBhiOkxy434andZp3Nl-fm44QVUJwJWsKq8hz5gglXR1dGkH4wIFQnoKfkl0SQIYyqFYXnxgrJOczq9q6_L4gGJ5Y80DS7c6qxZ52RapeuyA9CvVh"
+https://github.com/jmperez/spotify-web-api-js
